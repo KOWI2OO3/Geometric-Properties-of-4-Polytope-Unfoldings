@@ -1,0 +1,14 @@
+services:
+  polytope-experiment:
+    image: polytope-experiment:latest
+    build: .
+    container_name: polytope-experiment 
+    # Use 'host' network to avoid creating a new virtual network
+    network_mode: "host"
+    volumes:
+      - experiment_data:/output
+    init: true 
+
+volumes:
+  experiment_data:
+    name: polytope_experiment_data
