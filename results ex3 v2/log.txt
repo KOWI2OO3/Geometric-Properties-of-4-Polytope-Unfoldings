@@ -1,0 +1,242 @@
+[19:48:05.208]: Starting polytopes computation
+[19:48:05.208]: Starting Computation for polytopes with 1
+[19:48:05.208]: Computating polytopes with 1 #1
+[20:07:07.499]: Computating polytopes with 1 #2
+[20:26:17.84]: Computating polytopes with 1 #3
+[20:44:02.334]: Computating polytopes with 1 #4
+[21:02:13.105]: Computating polytopes with 1 #5
+[21:20:09.898]: Computating polytopes with 1 #6
+[21:39:07.843]: Computating polytopes with 1 #7
+[21:55:50.507]: Computating polytopes with 1 #8
+[22:13:59.224]: Computating polytopes with 1 #9
+[22:31:21.751]: Computating polytopes with 1 #10
+[22:50:33.262]: Finished polytopes with 1
+[22:50:33.263]: Starting Computation for polytopes with 2
+[22:50:33.263]: Computating polytopes with 2 #1
+[23:07:59.833]: Computating polytopes with 2 #2
+[23:27:49.936]: Computating polytopes with 2 #3
+[23:46:05.831]: Computating polytopes with 2 #4
+[00:05:31.47]: Computating polytopes with 2 #5
+[00:24:44.872]: Computating polytopes with 2 #6
+[00:43:52.868]: Computating polytopes with 2 #7
+[01:01:18.473]: Computating polytopes with 2 #8
+[01:16:40.282]: Computating polytopes with 2 #9
+[01:36:39.500]: Computating polytopes with 2 #10
+[01:56:26.725]: Finished polytopes with 2
+[01:56:26.725]: Starting Computation for polytopes with 3
+[01:56:26.725]: Computating polytopes with 3 #1
+[02:12:30.702]: Computating polytopes with 3 #2
+[02:30:54.419]: Computating polytopes with 3 #3
+[02:50:17.933]: Computating polytopes with 3 #4
+[03:06:51.901]: Computating polytopes with 3 #5
+[03:23:55.184]: Computating polytopes with 3 #6
+[03:41:57.287]: Computating polytopes with 3 #7
+[03:58:48.279]: Computating polytopes with 3 #8
+[04:16:53.974]: Computating polytopes with 3 #9
+[04:34:13.956]: Computating polytopes with 3 #10
+[04:53:13.875]: Finished polytopes with 3
+[04:53:13.875]: Starting Computation for polytopes with 4
+[04:53:13.875]: Computating polytopes with 4 #1
+[05:10:03.249]: Computating polytopes with 4 #2
+[05:27:16.990]: Computating polytopes with 4 #3
+[05:46:06.354]: Computating polytopes with 4 #4
+[06:04:11.43]: Computating polytopes with 4 #5
+[06:22:21.384]: Computating polytopes with 4 #6
+[06:40:24.746]: Computating polytopes with 4 #7
+[06:58:35.755]: Computating polytopes with 4 #8
+[07:15:50.702]: Computating polytopes with 4 #9
+[07:33:05.103]: Computating polytopes with 4 #10
+[07:51:44.645]: Finished polytopes with 4
+[07:51:44.645]: Starting Computation for polytopes with 5
+[07:51:44.645]: Computating polytopes with 5 #1
+[08:10:13.705]: Computating polytopes with 5 #2
+[08:27:12.586]: Computating polytopes with 5 #3
+[08:48:46.864]: Computating polytopes with 5 #4
+[09:06:33.339]: Computating polytopes with 5 #5
+[09:24:26.553]: Computating polytopes with 5 #6
+[09:41:21.444]: Computating polytopes with 5 #7
+[09:57:01.85]: Computating polytopes with 5 #8
+[10:15:01.824]: Computating polytopes with 5 #9
+[10:32:47.302]: Computating polytopes with 5 #10
+[10:49:44.804]: Finished polytopes with 5
+[10:49:44.804]: Starting Computation for polytopes with 6
+[10:49:44.804]: Computating polytopes with 6 #1
+[11:09:07.455]: Computating polytopes with 6 #2
+[11:25:26.253]: Computating polytopes with 6 #3
+[11:43:06.735]: Computating polytopes with 6 #4
+[12:01:07.846]: Computating polytopes with 6 #5
+[12:20:33.874]: Computating polytopes with 6 #6
+[12:39:57.100]: Computating polytopes with 6 #7
+[12:59:23.188]: Computating polytopes with 6 #8
+[13:18:27.941]: Computating polytopes with 6 #9
+[13:35:52.351]: Computating polytopes with 6 #10
+[13:54:03.936]: Finished polytopes with 6
+[13:54:03.936]: Starting Computation for polytopes with 7
+[13:54:03.936]: Computating polytopes with 7 #1
+[14:12:10.782]: Computating polytopes with 7 #2
+[14:30:50.719]: Computating polytopes with 7 #3
+[14:49:11.311]: Computating polytopes with 7 #4
+[15:08:02.652]: Computating polytopes with 7 #5
+[15:26:52.839]: Computating polytopes with 7 #6
+[15:45:48.123]: Computating polytopes with 7 #7
+[16:02:09.983]: Computating polytopes with 7 #8
+[16:21:05.634]: Computating polytopes with 7 #9
+[16:38:30.191]: Computating polytopes with 7 #10
+[16:54:56.906]: Finished polytopes with 7
+[16:54:56.906]: Starting Computation for polytopes with 8
+[16:54:56.906]: Computating polytopes with 8 #1
+[17:12:32.172]: Computating polytopes with 8 #2
+[17:29:48.738]: Computating polytopes with 8 #3
+[17:49:36.690]: Computating polytopes with 8 #4
+[18:07:13.348]: Computating polytopes with 8 #5
+[18:25:33.592]: Computating polytopes with 8 #6
+[18:43:50.199]: Computating polytopes with 8 #7
+[19:01:39.859]: Computating polytopes with 8 #8
+[19:19:30.375]: Computating polytopes with 8 #9
+[19:36:10.503]: Computating polytopes with 8 #10
+[19:55:14.472]: Finished polytopes with 8
+[19:55:14.472]: Starting Computation for polytopes with 9
+[19:55:14.472]: Computating polytopes with 9 #1
+[20:12:51.728]: Computating polytopes with 9 #2
+[20:32:40.435]: Computating polytopes with 9 #3
+[20:50:03.839]: Computating polytopes with 9 #4
+[21:10:10.121]: Computating polytopes with 9 #5
+[21:27:57.89]: Computating polytopes with 9 #6
+[21:46:39.243]: Computating polytopes with 9 #7
+[22:04:48.844]: Computating polytopes with 9 #8
+[22:22:44.587]: Computating polytopes with 9 #9
+[22:41:07.977]: Computating polytopes with 9 #10
+[22:59:03.970]: Finished polytopes with 9
+[22:59:03.970]: Starting Computation for polytopes with 10
+[22:59:03.970]: Computating polytopes with 10 #1
+[23:16:30.825]: Computating polytopes with 10 #2
+[23:36:24.28]: Computating polytopes with 10 #3
+[23:54:07.800]: Computating polytopes with 10 #4
+[00:10:55.296]: Computating polytopes with 10 #5
+[00:27:21.871]: Computating polytopes with 10 #6
+[00:43:48.902]: Computating polytopes with 10 #7
+[01:04:07.101]: Computating polytopes with 10 #8
+[01:21:31.414]: Computating polytopes with 10 #9
+[01:38:41.146]: Computating polytopes with 10 #10
+[01:56:40.19]: Finished polytopes with 10
+[01:56:40.19]: Starting Computation for polytopes with 11
+[01:56:40.19]: Computating polytopes with 11 #1
+[02:13:29.128]: Computating polytopes with 11 #2
+[02:30:47.784]: Computating polytopes with 11 #3
+[02:48:32.775]: Computating polytopes with 11 #4
+[03:06:58.668]: Computating polytopes with 11 #5
+[03:24:54.25]: Computating polytopes with 11 #6
+[03:42:53.207]: Computating polytopes with 11 #7
+[04:02:16.664]: Computating polytopes with 11 #8
+[04:21:05.425]: Computating polytopes with 11 #9
+[04:40:11.802]: Computating polytopes with 11 #10
+[04:59:17.99]: Finished polytopes with 11
+[04:59:17.99]: Starting Computation for polytopes with 12
+[04:59:17.99]: Computating polytopes with 12 #1
+[05:17:11.818]: Computating polytopes with 12 #2
+[05:35:39.68]: Computating polytopes with 12 #3
+[05:53:38.655]: Computating polytopes with 12 #4
+[06:11:17.8]: Computating polytopes with 12 #5
+[06:28:07.603]: Computating polytopes with 12 #6
+[06:43:05.919]: Computating polytopes with 12 #7
+[06:59:46.949]: Computating polytopes with 12 #8
+[07:17:28.232]: Computating polytopes with 12 #9
+[07:33:54.405]: Computating polytopes with 12 #10
+[07:51:57.742]: Finished polytopes with 12
+[07:51:57.742]: Starting Computation for polytopes with 13
+[07:51:57.742]: Computating polytopes with 13 #1
+[08:09:46.940]: Computating polytopes with 13 #2
+[08:27:18.270]: Computating polytopes with 13 #3
+[08:46:13.323]: Computating polytopes with 13 #4
+[09:04:20.684]: Computating polytopes with 13 #5
+[09:23:13.518]: Computating polytopes with 13 #6
+[09:42:22.714]: Computating polytopes with 13 #7
+[10:00:10.279]: Computating polytopes with 13 #8
+[10:18:16.105]: Computating polytopes with 13 #9
+[10:36:11.735]: Computating polytopes with 13 #10
+[10:53:15.872]: Finished polytopes with 13
+[10:53:15.872]: Starting Computation for polytopes with 14
+[10:53:15.872]: Computating polytopes with 14 #1
+[11:10:10.965]: Computating polytopes with 14 #2
+[11:27:00.711]: Computating polytopes with 14 #3
+[11:44:39.357]: Computating polytopes with 14 #4
+[12:02:48.535]: Computating polytopes with 14 #5
+[12:19:44.272]: Computating polytopes with 14 #6
+[12:38:43.299]: Computating polytopes with 14 #7
+[12:55:10.569]: Computating polytopes with 14 #8
+[13:13:26.227]: Computating polytopes with 14 #9
+[13:30:36.28]: Computating polytopes with 14 #10
+[13:48:43.545]: Finished polytopes with 14
+[13:48:43.546]: Starting Computation for polytopes with 15
+[13:48:43.546]: Computating polytopes with 15 #1
+[14:06:52.724]: Computating polytopes with 15 #2
+[14:25:12.926]: Computating polytopes with 15 #3
+[14:43:53.322]: Computating polytopes with 15 #4
+[14:59:23.83]: Computating polytopes with 15 #5
+[15:17:43.273]: Computating polytopes with 15 #6
+[15:36:13.692]: Computating polytopes with 15 #7
+[15:53:09.456]: Computating polytopes with 15 #8
+[16:09:25.976]: Computating polytopes with 15 #9
+[16:27:51.403]: Computating polytopes with 15 #10
+[16:45:33.869]: Finished polytopes with 15
+[16:45:33.869]: Starting Computation for polytopes with 16
+[16:45:33.869]: Computating polytopes with 16 #1
+[17:02:49.127]: Computating polytopes with 16 #2
+[17:19:14.30]: Computating polytopes with 16 #3
+[17:37:15.101]: Computating polytopes with 16 #4
+[17:53:19.86]: Computating polytopes with 16 #5
+[18:12:19.2]: Computating polytopes with 16 #6
+[18:28:24.889]: Computating polytopes with 16 #7
+[18:46:51.524]: Computating polytopes with 16 #8
+[19:05:08.169]: Computating polytopes with 16 #9
+[19:22:24.801]: Computating polytopes with 16 #10
+[19:39:21.119]: Finished polytopes with 16
+[19:39:21.120]: Starting Computation for polytopes with 17
+[19:39:21.120]: Computating polytopes with 17 #1
+[19:56:50.918]: Computating polytopes with 17 #2
+[20:13:21.412]: Computating polytopes with 17 #3
+[20:29:04.2]: Computating polytopes with 17 #4
+[20:45:15.856]: Computating polytopes with 17 #5
+[21:01:05.27]: Computating polytopes with 17 #6
+[21:17:59.708]: Computating polytopes with 17 #7
+[21:35:41.208]: Computating polytopes with 17 #8
+[21:54:11.46]: Computating polytopes with 17 #9
+[22:09:47.257]: Computating polytopes with 17 #10
+[22:28:43.775]: Finished polytopes with 17
+[22:28:43.775]: Starting Computation for polytopes with 18
+[22:28:43.775]: Computating polytopes with 18 #1
+[22:44:48.127]: Computating polytopes with 18 #2
+[23:02:49.410]: Computating polytopes with 18 #3
+[23:21:28.472]: Computating polytopes with 18 #4
+[23:41:19.124]: Computating polytopes with 18 #5
+[23:59:05.860]: Computating polytopes with 18 #6
+[00:16:14.590]: Computating polytopes with 18 #7
+[00:35:07.640]: Computating polytopes with 18 #8
+[00:50:40.502]: Computating polytopes with 18 #9
+[01:07:56.552]: Computating polytopes with 18 #10
+[01:26:06.172]: Finished polytopes with 18
+[01:26:06.172]: Starting Computation for polytopes with 19
+[01:26:06.172]: Computating polytopes with 19 #1
+[01:43:17.764]: Computating polytopes with 19 #2
+[02:01:02.6]: Computating polytopes with 19 #3
+[02:18:21.128]: Computating polytopes with 19 #4
+[02:35:11.589]: Computating polytopes with 19 #5
+[02:52:24.651]: Computating polytopes with 19 #6
+[03:09:53.137]: Computating polytopes with 19 #7
+[03:28:02.821]: Computating polytopes with 19 #8
+[03:45:11.158]: Computating polytopes with 19 #9
+[04:02:10.4]: Computating polytopes with 19 #10
+[04:20:25.199]: Finished polytopes with 19
+[04:20:25.199]: Starting Computation for polytopes with 20
+[04:20:25.199]: Computating polytopes with 20 #1
+[04:37:25.211]: Computating polytopes with 20 #2
+[04:57:40.317]: Computating polytopes with 20 #3
+[05:12:50.41]: Computating polytopes with 20 #4
+[05:31:05.16]: Computating polytopes with 20 #5
+[05:47:41.305]: Computating polytopes with 20 #6
+[06:06:34.866]: Computating polytopes with 20 #7
+[06:25:19.589]: Computating polytopes with 20 #8
+[06:42:50.19]: Computating polytopes with 20 #9
+[06:59:04.20]: Computating polytopes with 20 #10
+[07:17:36.911]: Finished polytopes with 20
+[07:17:36.911]: Computation finished! took 2 days, 11:29:31.703284

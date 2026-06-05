@@ -1,0 +1,254 @@
+[08:41:54.738]: Starting polytopes computation
+[08:41:54.738]: Starting Computation for polytopes with 0.0
+[08:41:54.738]: Computating polytopes with 0.0 #1
+[09:10:03.195]: Computating polytopes with 0.0 #2
+[09:38:39.65]: Computating polytopes with 0.0 #3
+[10:05:33.405]: Computating polytopes with 0.0 #4
+[10:31:33.962]: Computating polytopes with 0.0 #5
+[10:59:26.437]: Computating polytopes with 0.0 #6
+[11:27:54.228]: Computating polytopes with 0.0 #7
+[11:57:23.330]: Computating polytopes with 0.0 #8
+[12:28:15.366]: Computating polytopes with 0.0 #9
+[12:55:48.228]: Computating polytopes with 0.0 #10
+[13:22:14.463]: Finished polytopes with 0.0
+[13:22:14.463]: Starting Computation for polytopes with 0.05
+[13:22:14.463]: Computating polytopes with 0.05 #1
+[13:43:36.806]: Computating polytopes with 0.05 #2
+[14:05:12.567]: Computating polytopes with 0.05 #3
+[14:30:21.506]: Computating polytopes with 0.05 #4
+[14:55:15.597]: Computating polytopes with 0.05 #5
+[15:18:59.966]: Computating polytopes with 0.05 #6
+[15:42:20.284]: Computating polytopes with 0.05 #7
+[16:04:57.730]: Computating polytopes with 0.05 #8
+[16:25:42.916]: Computating polytopes with 0.05 #9
+[16:50:33.840]: Computating polytopes with 0.05 #10
+[17:13:14.498]: Finished polytopes with 0.05
+[17:13:14.498]: Starting Computation for polytopes with 0.1
+[17:13:14.498]: Computating polytopes with 0.1 #1
+[17:40:19.500]: Computating polytopes with 0.1 #2
+[18:08:07.695]: Computating polytopes with 0.1 #3
+[18:37:06.443]: Computating polytopes with 0.1 #4
+[19:04:11.644]: Computating polytopes with 0.1 #5
+[19:32:32.78]: Computating polytopes with 0.1 #6
+[20:02:26.791]: Computating polytopes with 0.1 #7
+[20:29:55.242]: Computating polytopes with 0.1 #8
+[20:59:47.244]: Computating polytopes with 0.1 #9
+[21:28:49.350]: Computating polytopes with 0.1 #10
+[21:57:12.451]: Finished polytopes with 0.1
+[21:57:12.451]: Starting Computation for polytopes with 0.15000000000000002
+[21:57:12.451]: Computating polytopes with 0.15000000000000002 #1
+[22:20:56.577]: Computating polytopes with 0.15000000000000002 #2
+[22:43:50.940]: Computating polytopes with 0.15000000000000002 #3
+[23:06:22.48]: Computating polytopes with 0.15000000000000002 #4
+[23:29:32.190]: Computating polytopes with 0.15000000000000002 #5
+[23:51:56.594]: Computating polytopes with 0.15000000000000002 #6
+[00:14:37.37]: Computating polytopes with 0.15000000000000002 #7
+[00:36:30.971]: Computating polytopes with 0.15000000000000002 #8
+[01:00:44.623]: Computating polytopes with 0.15000000000000002 #9
+[01:22:29.633]: Computating polytopes with 0.15000000000000002 #10
+[01:44:46.76]: Finished polytopes with 0.15000000000000002
+[01:44:46.76]: Starting Computation for polytopes with 0.2
+[01:44:46.76]: Computating polytopes with 0.2 #1
+[02:15:30.746]: Computating polytopes with 0.2 #2
+[02:43:13.909]: Computating polytopes with 0.2 #3
+[03:10:43.353]: Computating polytopes with 0.2 #4
+[03:43:44.140]: Computating polytopes with 0.2 #5
+[04:10:49.491]: Computating polytopes with 0.2 #6
+[04:37:42.909]: Computating polytopes with 0.2 #7
+[05:04:38.303]: Computating polytopes with 0.2 #8
+[05:36:03.504]: Computating polytopes with 0.2 #9
+[06:02:08.611]: Computating polytopes with 0.2 #10
+[06:29:09.248]: Finished polytopes with 0.2
+[06:29:09.248]: Starting Computation for polytopes with 0.25
+[06:29:09.248]: Computating polytopes with 0.25 #1
+[06:50:07.132]: Computating polytopes with 0.25 #2
+[07:14:43.155]: Computating polytopes with 0.25 #3
+[07:40:51.92]: Computating polytopes with 0.25 #4
+[08:03:37.663]: Computating polytopes with 0.25 #5
+[08:24:41.163]: Computating polytopes with 0.25 #6
+[08:46:33.988]: Computating polytopes with 0.25 #7
+[09:09:17.399]: Computating polytopes with 0.25 #8
+[09:33:00.108]: Computating polytopes with 0.25 #9
+[09:56:28.304]: Computating polytopes with 0.25 #10
+[10:21:10.425]: Finished polytopes with 0.25
+[10:21:10.425]: Starting Computation for polytopes with 0.30000000000000004
+[10:21:10.425]: Computating polytopes with 0.30000000000000004 #1
+[10:50:14.249]: Computating polytopes with 0.30000000000000004 #2
+[11:15:27.542]: Computating polytopes with 0.30000000000000004 #3
+[11:40:37.859]: Computating polytopes with 0.30000000000000004 #4
+[12:07:15.461]: Computating polytopes with 0.30000000000000004 #5
+[12:30:41.695]: Computating polytopes with 0.30000000000000004 #6
+[12:57:22.720]: Computating polytopes with 0.30000000000000004 #7
+[13:26:35.17]: Computating polytopes with 0.30000000000000004 #8
+[13:54:18.787]: Computating polytopes with 0.30000000000000004 #9
+[14:22:24.409]: Computating polytopes with 0.30000000000000004 #10
+[14:49:15.279]: Finished polytopes with 0.30000000000000004
+[14:49:15.279]: Starting Computation for polytopes with 0.35000000000000003
+[14:49:15.279]: Computating polytopes with 0.35000000000000003 #1
+[15:11:51.152]: Computating polytopes with 0.35000000000000003 #2
+[15:31:57.656]: Computating polytopes with 0.35000000000000003 #3
+[15:53:37.380]: Computating polytopes with 0.35000000000000003 #4
+[16:14:22.91]: Computating polytopes with 0.35000000000000003 #5
+[16:38:42.37]: Computating polytopes with 0.35000000000000003 #6
+[17:01:25.740]: Computating polytopes with 0.35000000000000003 #7
+[17:24:43.639]: Computating polytopes with 0.35000000000000003 #8
+[17:46:03.560]: Computating polytopes with 0.35000000000000003 #9
+[18:10:39.226]: Computating polytopes with 0.35000000000000003 #10
+[18:34:20.207]: Finished polytopes with 0.35000000000000003
+[18:34:20.207]: Starting Computation for polytopes with 0.4
+[18:34:20.207]: Computating polytopes with 0.4 #1
+[19:02:58.245]: Computating polytopes with 0.4 #2
+[19:26:09.180]: Computating polytopes with 0.4 #3
+[19:51:51.386]: Computating polytopes with 0.4 #4
+[20:14:42.79]: Computating polytopes with 0.4 #5
+[20:41:49.281]: Computating polytopes with 0.4 #6
+[21:05:26.703]: Computating polytopes with 0.4 #7
+[21:28:54.388]: Computating polytopes with 0.4 #8
+[21:56:20.75]: Computating polytopes with 0.4 #9
+[22:28:03.23]: Computating polytopes with 0.4 #10
+[22:51:48.284]: Finished polytopes with 0.4
+[22:51:48.284]: Starting Computation for polytopes with 0.45
+[22:51:48.284]: Computating polytopes with 0.45 #1
+[23:14:18.798]: Computating polytopes with 0.45 #2
+[23:35:13.772]: Computating polytopes with 0.45 #3
+[23:54:55.824]: Computating polytopes with 0.45 #4
+[00:13:15.677]: Computating polytopes with 0.45 #5
+[00:32:09.98]: Computating polytopes with 0.45 #6
+[00:54:39.104]: Computating polytopes with 0.45 #7
+[01:18:46.746]: Computating polytopes with 0.45 #8
+[01:39:00.104]: Computating polytopes with 0.45 #9
+[01:59:46.460]: Computating polytopes with 0.45 #10
+[02:24:18.240]: Finished polytopes with 0.45
+[02:24:18.240]: Starting Computation for polytopes with 0.5
+[02:24:18.240]: Computating polytopes with 0.5 #1
+[02:54:42.978]: Computating polytopes with 0.5 #2
+[03:18:56.929]: Computating polytopes with 0.5 #3
+[03:42:25.793]: Computating polytopes with 0.5 #4
+[04:10:36.469]: Computating polytopes with 0.5 #5
+[04:36:48.621]: Computating polytopes with 0.5 #6
+[05:01:26.259]: Computating polytopes with 0.5 #7
+[05:23:08.323]: Computating polytopes with 0.5 #8
+[05:48:31.990]: Computating polytopes with 0.5 #9
+[06:12:54.284]: Computating polytopes with 0.5 #10
+[06:35:19.461]: Finished polytopes with 0.5
+[06:35:19.461]: Starting Computation for polytopes with 0.55
+[06:35:19.461]: Computating polytopes with 0.55 #1
+[07:00:39.387]: Computating polytopes with 0.55 #2
+[07:26:26.479]: Computating polytopes with 0.55 #3
+[07:46:11.950]: Computating polytopes with 0.55 #4
+[08:07:03.667]: Computating polytopes with 0.55 #5
+[08:27:11.598]: Computating polytopes with 0.55 #6
+[08:49:44.776]: Computating polytopes with 0.55 #7
+[09:11:00.863]: Computating polytopes with 0.55 #8
+[09:28:53.363]: Computating polytopes with 0.55 #9
+[09:47:44.886]: Computating polytopes with 0.55 #10
+[10:11:30.294]: Finished polytopes with 0.55
+[10:11:30.294]: Starting Computation for polytopes with 0.6000000000000001
+[10:11:30.294]: Computating polytopes with 0.6000000000000001 #1
+[10:27:59.555]: Computating polytopes with 0.6000000000000001 #2
+[10:50:23.339]: Computating polytopes with 0.6000000000000001 #3
+[11:11:07.270]: Computating polytopes with 0.6000000000000001 #4
+[11:34:17.827]: Computating polytopes with 0.6000000000000001 #5
+[11:54:16.530]: Computating polytopes with 0.6000000000000001 #6
+[12:13:49.471]: Computating polytopes with 0.6000000000000001 #7
+[12:38:20.529]: Computating polytopes with 0.6000000000000001 #8
+[12:57:21.948]: Computating polytopes with 0.6000000000000001 #9
+[13:13:31.283]: Computating polytopes with 0.6000000000000001 #10
+[13:34:04.509]: Finished polytopes with 0.6000000000000001
+[13:34:04.509]: Starting Computation for polytopes with 0.65
+[13:34:04.509]: Computating polytopes with 0.65 #1
+[13:58:35.342]: Computating polytopes with 0.65 #2
+[14:20:59.526]: Computating polytopes with 0.65 #3
+[14:47:57.449]: Computating polytopes with 0.65 #4
+[15:06:54.874]: Computating polytopes with 0.65 #5
+[15:30:15.992]: Computating polytopes with 0.65 #6
+[15:59:47.439]: Computating polytopes with 0.65 #7
+[16:16:30.88]: Computating polytopes with 0.65 #8
+[16:33:50.268]: Computating polytopes with 0.65 #9
+[16:58:05.225]: Computating polytopes with 0.65 #10
+[17:17:33.556]: Finished polytopes with 0.65
+[17:17:33.556]: Starting Computation for polytopes with 0.7000000000000001
+[17:17:33.556]: Computating polytopes with 0.7000000000000001 #1
+[17:41:30.799]: Computating polytopes with 0.7000000000000001 #2
+[18:00:59.995]: Computating polytopes with 0.7000000000000001 #3
+[18:22:00.112]: Computating polytopes with 0.7000000000000001 #4
+[18:42:49.321]: Computating polytopes with 0.7000000000000001 #5
+[19:07:11.145]: Computating polytopes with 0.7000000000000001 #6
+[19:27:12.531]: Computating polytopes with 0.7000000000000001 #7
+[19:46:59.908]: Computating polytopes with 0.7000000000000001 #8
+[20:06:57.372]: Computating polytopes with 0.7000000000000001 #9
+[20:26:37.264]: Computating polytopes with 0.7000000000000001 #10
+[20:48:35.341]: Finished polytopes with 0.7000000000000001
+[20:48:35.341]: Starting Computation for polytopes with 0.75
+[20:48:35.341]: Computating polytopes with 0.75 #1
+[21:07:46.915]: Computating polytopes with 0.75 #2
+[21:29:40.480]: Computating polytopes with 0.75 #3
+[21:51:13.576]: Computating polytopes with 0.75 #4
+[22:07:13.459]: Computating polytopes with 0.75 #5
+[22:31:52.43]: Computating polytopes with 0.75 #6
+[22:49:40.130]: Computating polytopes with 0.75 #7
+[23:05:17.88]: Computating polytopes with 0.75 #8
+[23:25:03.482]: Computating polytopes with 0.75 #9
+[23:45:44.627]: Computating polytopes with 0.75 #10
+[00:06:04.378]: Finished polytopes with 0.75
+[00:06:04.379]: Starting Computation for polytopes with 0.8
+[00:06:04.379]: Computating polytopes with 0.8 #1
+[00:25:24.519]: Computating polytopes with 0.8 #2
+[00:41:55.950]: Computating polytopes with 0.8 #3
+[00:56:44.787]: Computating polytopes with 0.8 #4
+[01:15:09.843]: Computating polytopes with 0.8 #5
+[01:31:22.615]: Computating polytopes with 0.8 #6
+[01:47:45.652]: Computating polytopes with 0.8 #7
+[02:03:47.718]: Computating polytopes with 0.8 #8
+[02:20:02.318]: Computating polytopes with 0.8 #9
+[02:35:16.135]: Computating polytopes with 0.8 #10
+[02:55:50.411]: Finished polytopes with 0.8
+[02:55:50.411]: Starting Computation for polytopes with 0.8500000000000001
+[02:55:50.411]: Computating polytopes with 0.8500000000000001 #1
+[03:16:09.63]: Computating polytopes with 0.8500000000000001 #2
+[03:35:32.816]: Computating polytopes with 0.8500000000000001 #3
+[03:56:04.969]: Computating polytopes with 0.8500000000000001 #4
+[04:16:02.643]: Computating polytopes with 0.8500000000000001 #5
+[04:35:41.134]: Computating polytopes with 0.8500000000000001 #6
+[04:50:32.835]: Computating polytopes with 0.8500000000000001 #7
+[05:10:47.407]: Computating polytopes with 0.8500000000000001 #8
+[05:30:31.558]: Computating polytopes with 0.8500000000000001 #9
+[05:46:55.286]: Computating polytopes with 0.8500000000000001 #10
+[06:06:40.789]: Finished polytopes with 0.8500000000000001
+[06:06:40.789]: Starting Computation for polytopes with 0.9
+[06:06:40.789]: Computating polytopes with 0.9 #1
+[06:29:56.409]: Computating polytopes with 0.9 #2
+[06:53:28.780]: Computating polytopes with 0.9 #3
+[07:16:42.306]: Computating polytopes with 0.9 #4
+[07:39:36.951]: Computating polytopes with 0.9 #5
+[07:58:46.115]: Computating polytopes with 0.9 #6
+[08:15:39.415]: Computating polytopes with 0.9 #7
+[08:33:15.42]: Computating polytopes with 0.9 #8
+[08:52:22.804]: Computating polytopes with 0.9 #9
+[09:16:29.273]: Computating polytopes with 0.9 #10
+[09:34:22.919]: Finished polytopes with 0.9
+[09:34:22.919]: Starting Computation for polytopes with 0.9500000000000001
+[09:34:22.919]: Computating polytopes with 0.9500000000000001 #1
+[09:48:42.701]: Computating polytopes with 0.9500000000000001 #2
+[10:03:45.469]: Computating polytopes with 0.9500000000000001 #3
+[10:18:23.223]: Computating polytopes with 0.9500000000000001 #4
+[10:33:27.611]: Computating polytopes with 0.9500000000000001 #5
+[10:47:30.679]: Computating polytopes with 0.9500000000000001 #6
+[11:02:35.229]: Computating polytopes with 0.9500000000000001 #7
+[11:17:12.650]: Computating polytopes with 0.9500000000000001 #8
+[11:31:51.972]: Computating polytopes with 0.9500000000000001 #9
+[11:46:14.357]: Computating polytopes with 0.9500000000000001 #10
+[12:00:55.920]: Finished polytopes with 0.9500000000000001
+[12:00:55.920]: Starting Computation for polytopes with 1.0
+[12:00:55.920]: Computating polytopes with 1.0 #1
+[12:16:21.708]: Computating polytopes with 1.0 #2
+[12:31:59.789]: Computating polytopes with 1.0 #3
+[12:47:48.384]: Computating polytopes with 1.0 #4
+[13:05:05.368]: Computating polytopes with 1.0 #5
+[13:20:43.782]: Computating polytopes with 1.0 #6
+[13:38:10.938]: Computating polytopes with 1.0 #7
+[13:55:11.113]: Computating polytopes with 1.0 #8
+[14:12:47.634]: Computating polytopes with 1.0 #9
+[14:30:10.507]: Computating polytopes with 1.0 #10
+[14:47:12.385]: Finished polytopes with 1.0
+[14:47:12.385]: Computation finished! took 3 days, 6:05:17.646816
