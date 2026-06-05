@@ -1,0 +1,12 @@
+checking polytope 0
+checking polytope 1
+checking polytope 2
+checking polytope 3
+checking polytope 4
+average facet count: 26.0
+average time for polytope construction: 3 ms
+average time for adjacency graph: 0 ms
+average time for sampling spanning tree: 37 ms
+average time for testing intersection: 90 ms
+
+[Done] exited with code=0 in 643.283 seconds

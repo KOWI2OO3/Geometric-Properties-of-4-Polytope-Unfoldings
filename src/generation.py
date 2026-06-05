@@ -1,3 +1,4 @@
+import math
 from typing import Callable
 import numpy.typing as npt
 
@@ -39,12 +40,15 @@ def generate_uniform_unit_convex(n: int, dim : int = 4) -> ConvexHull:
 #   - required as otherwise all points would be in the cluster and no proper shape would be formed
 # min_clustering_size : defines the variance of the normal distribution used to sample points in the cluster
 def generate_clustering_unit_convex(n: int, p : float, dim : int = 4, sphere_point_ratio : float = 1/6, min_clustering_size: float = 0.2) -> ConvexHull:
-    inter = n * (1 - sphere_point_ratio)
+    inter = math.floor(n * (1 - sphere_point_ratio))
 
-    sphere = generate_uniform_unit_points(int(n * sphere_point_ratio + inter * (1 - p)), dim)
+    sphere = generate_uniform_unit_points(int(math.ceil(n * sphere_point_ratio) + inter * (1 - p)), dim)
     centre = random_unit_vector(dim)
 
     return ConvexHull(generate_unit_points(lambda : centre + np.random.default_rng().normal(scale=min_clustering_size), int(inter * p), sphere))
 
-def generate_convext_with_deformation(n: int , deformation: npt.NDArray[np.float64], dim : int = 4) -> ConvexHull:
+def generate_convex_with_deformation(n: int , deformation: npt.NDArray[np.float64], dim : int = 4) -> ConvexHull:
     return ConvexHull(generate_uniform_unit_points(n, dim) * deformation)
+
+def generate_clustered_convext_with_deformation(n: int, p : float, deformation: npt.NDArray[np.float64], dim : int = 4) -> ConvexHull:
+    return ConvexHull(generate_clustering_unit_convex(n, p, dim).points * deformation)

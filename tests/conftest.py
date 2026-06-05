@@ -1,6 +1,12 @@
 import pytest
 import numpy as np
+import sys
+from pathlib import Path
 from scipy.spatial import ConvexHull
+
+# Add parent directory to path so we can import src
+sys.path.insert(0, str(Path(__file__).parent.parent))
+
 from src.net import Net, constructAdjacencyGraph
 
 @pytest.fixture

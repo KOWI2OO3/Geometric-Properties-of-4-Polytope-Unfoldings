@@ -1,0 +1,210 @@
+[08:17:32.955]: Starting polytopes computation
+[08:17:32.955]: Starting Computation for polytopes with 5
+[08:17:32.955]: Computating polytopes with 5 #1
+[08:17:53.44]: Computating polytopes with 5 #2
+[08:18:13.251]: Computating polytopes with 5 #3
+[08:18:32.310]: Computating polytopes with 5 #4
+[08:18:51.994]: Computating polytopes with 5 #5
+[08:19:11.219]: Finished polytopes with 5
+[08:19:11.219]: Starting Computation for polytopes with 6
+[08:19:11.219]: Computating polytopes with 6 #1
+[08:19:55.689]: Computating polytopes with 6 #2
+[08:20:51.322]: Computating polytopes with 6 #3
+[08:21:34.559]: Computating polytopes with 6 #4
+[08:22:18.667]: Computating polytopes with 6 #5
+[08:23:01.336]: Finished polytopes with 6
+[08:23:01.336]: Starting Computation for polytopes with 7
+[08:23:01.336]: Computating polytopes with 7 #1
+[08:24:38.933]: Computating polytopes with 7 #2
+[08:26:15.857]: Computating polytopes with 7 #3
+[08:27:45.477]: Computating polytopes with 7 #4
+[08:29:35.157]: Computating polytopes with 7 #5
+[08:30:56.431]: Finished polytopes with 7
+[08:30:56.431]: Starting Computation for polytopes with 8
+[08:30:56.431]: Computating polytopes with 8 #1
+[08:33:31.339]: Computating polytopes with 8 #2
+[08:35:55.223]: Computating polytopes with 8 #3
+[08:38:03.942]: Computating polytopes with 8 #4
+[08:40:17.276]: Computating polytopes with 8 #5
+[08:42:45.73]: Finished polytopes with 8
+[08:42:45.73]: Starting Computation for polytopes with 9
+[08:42:45.73]: Computating polytopes with 9 #1
+[08:46:14.355]: Computating polytopes with 9 #2
+[08:49:37.711]: Computating polytopes with 9 #3
+[08:52:32.78]: Computating polytopes with 9 #4
+[08:55:34.281]: Computating polytopes with 9 #5
+[08:59:05.22]: Finished polytopes with 9
+[08:59:05.22]: Starting Computation for polytopes with 10
+[08:59:05.22]: Computating polytopes with 10 #1
+[09:03:07.434]: Computating polytopes with 10 #2
+[09:07:42.951]: Computating polytopes with 10 #3
+[09:11:38.875]: Computating polytopes with 10 #4
+[09:15:57.277]: Computating polytopes with 10 #5
+[09:20:36.579]: Finished polytopes with 10
+[09:20:36.579]: Starting Computation for polytopes with 11
+[09:20:36.579]: Computating polytopes with 11 #1
+[09:25:25.633]: Computating polytopes with 11 #2
+[09:29:54.784]: Computating polytopes with 11 #3
+[09:34:34.718]: Computating polytopes with 11 #4
+[09:39:35.167]: Computating polytopes with 11 #5
+[09:44:55.583]: Finished polytopes with 11
+[09:44:55.583]: Starting Computation for polytopes with 12
+[09:44:55.583]: Computating polytopes with 12 #1
+[09:50:36.619]: Computating polytopes with 12 #2
+[09:56:50.114]: Computating polytopes with 12 #3
+[10:03:04.247]: Computating polytopes with 12 #4
+[10:08:31.227]: Computating polytopes with 12 #5
+[10:14:04.808]: Finished polytopes with 12
+[10:14:04.808]: Starting Computation for polytopes with 13
+[10:14:04.808]: Computating polytopes with 13 #1
+[10:21:18.245]: Computating polytopes with 13 #2
+[10:27:56.186]: Computating polytopes with 13 #3
+[10:34:02.900]: Computating polytopes with 13 #4
+[10:41:04.288]: Computating polytopes with 13 #5
+[10:47:45.665]: Finished polytopes with 13
+[10:47:45.665]: Starting Computation for polytopes with 14
+[10:47:45.665]: Computating polytopes with 14 #1
+[10:55:30.179]: Computating polytopes with 14 #2
+[11:02:33.305]: Computating polytopes with 14 #3
+[11:09:59.380]: Computating polytopes with 14 #4
+[11:17:21.870]: Computating polytopes with 14 #5
+[11:24:20.792]: Finished polytopes with 14
+[11:24:20.792]: Starting Computation for polytopes with 15
+[11:24:20.792]: Computating polytopes with 15 #1
+[11:32:09.230]: Computating polytopes with 15 #2
+[11:39:18.389]: Computating polytopes with 15 #3
+[11:47:33.398]: Computating polytopes with 15 #4
+[11:55:19.493]: Computating polytopes with 15 #5
+[12:03:18.452]: Finished polytopes with 15
+[12:03:18.452]: Starting Computation for polytopes with 16
+[12:03:18.452]: Computating polytopes with 16 #1
+[12:11:24.776]: Computating polytopes with 16 #2
+[12:20:13.138]: Computating polytopes with 16 #3
+[12:29:13.532]: Computating polytopes with 16 #4
+[12:38:14.111]: Computating polytopes with 16 #5
+[12:47:13.498]: Finished polytopes with 16
+[12:47:13.498]: Starting Computation for polytopes with 17
+[12:47:13.498]: Computating polytopes with 17 #1
+[12:55:57.892]: Computating polytopes with 17 #2
+[13:05:11.969]: Computating polytopes with 17 #3
+[13:14:42.848]: Computating polytopes with 17 #4
+[13:23:59.767]: Computating polytopes with 17 #5
+[13:32:48.601]: Finished polytopes with 17
+[13:32:48.602]: Starting Computation for polytopes with 18
+[13:32:48.602]: Computating polytopes with 18 #1
+[13:43:18.356]: Computating polytopes with 18 #2
+[13:52:52.239]: Computating polytopes with 18 #3
+[14:03:05.683]: Computating polytopes with 18 #4
+[14:13:08.108]: Computating polytopes with 18 #5
+[14:23:28.677]: Finished polytopes with 18
+[14:23:28.677]: Starting Computation for polytopes with 19
+[14:23:28.677]: Computating polytopes with 19 #1
+[14:35:02.321]: Computating polytopes with 19 #2
+[14:45:42.648]: Computating polytopes with 19 #3
+[14:56:59.787]: Computating polytopes with 19 #4
+[15:07:15.806]: Computating polytopes with 19 #5
+[15:17:22.719]: Finished polytopes with 19
+[15:17:22.719]: Starting Computation for polytopes with 20
+[15:17:22.719]: Computating polytopes with 20 #1
+[15:30:03.935]: Computating polytopes with 20 #2
+[15:42:00.52]: Computating polytopes with 20 #3
+[15:53:45.705]: Computating polytopes with 20 #4
+[16:05:42.302]: Computating polytopes with 20 #5
+[16:17:58.316]: Finished polytopes with 20
+[16:17:58.316]: Starting Computation for polytopes with 21
+[16:17:58.316]: Computating polytopes with 21 #1
+[16:29:50.872]: Computating polytopes with 21 #2
+[16:41:26.549]: Computating polytopes with 21 #3
+[16:53:33.196]: Computating polytopes with 21 #4
+[17:05:43.698]: Computating polytopes with 21 #5
+[17:17:30.830]: Finished polytopes with 21
+[17:17:30.830]: Starting Computation for polytopes with 22
+[17:17:30.830]: Computating polytopes with 22 #1
+[17:31:04.449]: Computating polytopes with 22 #2
+[17:44:15.942]: Computating polytopes with 22 #3
+[17:56:43.924]: Computating polytopes with 22 #4
+[18:09:43.733]: Computating polytopes with 22 #5
+[18:24:16.477]: Finished polytopes with 22
+[18:24:16.477]: Starting Computation for polytopes with 23
+[18:24:16.477]: Computating polytopes with 23 #1
+[18:39:36.395]: Computating polytopes with 23 #2
+[18:53:55.764]: Computating polytopes with 23 #3
+[19:08:17.404]: Computating polytopes with 23 #4
+[19:22:38.417]: Computating polytopes with 23 #5
+[19:36:48.257]: Finished polytopes with 23
+[19:36:48.257]: Starting Computation for polytopes with 24
+[19:36:48.257]: Computating polytopes with 24 #1
+[19:51:55.151]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[19:51:55.151]: Computating polytopes with 24 #2
+[20:06:47.397]: Computating polytopes with 24 #3
+[20:22:18.685]: Computating polytopes with 24 #4
+[20:38:11.352]: Computating polytopes with 24 #5
+[20:53:14.438]: Finished polytopes with 24
+[20:53:14.438]: Starting Computation for polytopes with 25
+[20:53:14.438]: Computating polytopes with 25 #1
+[21:09:00.581]: Computating polytopes with 25 #2
+[21:25:14.290]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[21:25:14.290]: Computating polytopes with 25 #3
+[21:41:53.406]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[21:41:53.406]: Computating polytopes with 25 #4
+[21:58:10.416]: Computating polytopes with 25 #5
+[22:14:26.207]: Finished polytopes with 25
+[22:14:26.207]: Starting Computation for polytopes with 26
+[22:14:26.207]: Computating polytopes with 26 #1
+[22:31:35.637]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[22:31:35.637]: Computating polytopes with 26 #2
+[22:48:53.411]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[22:48:53.411]: Computating polytopes with 26 #3
+[23:05:53.831]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[23:05:53.831]: Computating polytopes with 26 #4
+[23:23:07.469]: Computating polytopes with 26 #5
+[23:39:37.144]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[23:39:37.144]: Finished polytopes with 26
+[23:39:37.144]: Starting Computation for polytopes with 27
+[23:39:37.144]: Computating polytopes with 27 #1
+[23:59:24.578]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[23:59:24.578]: Computating polytopes with 27 #2
+[00:18:37.658]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[00:18:37.658]: Computating polytopes with 27 #3
+[00:37:16.827]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[00:37:16.827]: Computating polytopes with 27 #4
+[00:55:42.482]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[00:55:42.482]: Computating polytopes with 27 #5
+[01:15:28.137]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[01:15:28.137]: Finished polytopes with 27
+[01:15:28.137]: Starting Computation for polytopes with 28
+[01:15:28.137]: Computating polytopes with 28 #1
+[01:35:38.282]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[01:35:38.282]: Computating polytopes with 28 #2
+[01:54:51.232]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[01:54:51.232]: Computating polytopes with 28 #3
+[02:15:34.204]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[02:15:34.204]: Computating polytopes with 28 #4
+[02:35:13.459]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[02:35:13.459]: Computating polytopes with 28 #5
+[02:54:21.702]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[02:54:21.703]: Finished polytopes with 28
+[02:54:21.703]: Starting Computation for polytopes with 29
+[02:54:21.703]: Computating polytopes with 29 #1
+[03:14:18.573]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[03:14:18.574]: Computating polytopes with 29 #2
+[03:34:52.269]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[03:34:52.269]: Computating polytopes with 29 #3
+[03:56:12.323]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[03:56:12.323]: Computating polytopes with 29 #4
+[04:16:48.573]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[04:16:48.573]: Computating polytopes with 29 #5
+[04:38:21.230]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[04:38:21.230]: Finished polytopes with 29
+[04:38:21.230]: Starting Computation for polytopes with 30
+[04:38:21.230]: Computating polytopes with 30 #1
+[05:00:55.683]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[05:00:55.683]: Computating polytopes with 30 #2
+[05:23:26.721]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[05:23:26.721]: Computating polytopes with 30 #3
+[05:45:52.706]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[05:45:52.706]: Computating polytopes with 30 #4
+[06:07:57.787]: FOUND POLYTOPE WITHOUT UNFOLDINGS
+[06:07:57.787]: Computating polytopes with 30 #5
+[06:29:09.51]: Finished polytopes with 30
+[06:29:09.52]: Computation finished! took 22:11:36.096234
