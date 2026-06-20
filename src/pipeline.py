@@ -84,8 +84,8 @@ def pipeline_sample(hull, logger, n_samples: int):
 # Experiment 1
 # run_pipeline(5, 30, 1, lambda x: gen.generate_clustering_unit_convex(x, 0), 5, 1000)
 
-# Experiment 2 ~ 16 hours
+# Experiment 2
 # run_pipeline(0, 1, 0.05, lambda x: gen.generate_clustering_unit_convex(12, x), 10, 10_000)
 
-# Experiment 3 ~ 16 hours
+# Experiment 3
 # run_pipeline(1, 20, 1, lambda x: gen.generate_convex_with_deformation(10, np.array([x, 1, 1, 1])), 10, 10_000)
